@@ -17,7 +17,7 @@
       <ScriptCommand xsi:type="VariableCommand" CommandID="26b4275f-cf82-4dd6-9d53-3fbfd0909b3e" CommandName="VariableCommand" IsCommented="false" SelectionName="Set Variable" DefaultPause="0" LineNumber="5" PauseBeforeExeucution="false" CommandEnabled="true" v_userVariableName="vRedirect" v_Input="https://intelgic.com" />
     </ScriptAction>
     <ScriptAction>
-      <ScriptCommand xsi:type="VariableCommand" CommandID="9493de1e-4a67-4a8e-b236-bd01ef99eabc" CommandName="VariableCommand" IsCommented="false" SelectionName="Set Variable" DefaultPause="0" LineNumber="6" PauseBeforeExeucution="false" CommandEnabled="true" v_userVariableName="vScope" v_Input="openid%20offline_access%20onedrive.readwrite%20https%3A%2F%2Fgraph.microsoft.com%2Fuser.read" />
+      <ScriptCommand xsi:type="VariableCommand" CommandID="9493de1e-4a67-4a8e-b236-bd01ef99eabc" CommandName="VariableCommand" IsCommented="false" SelectionName="Set Variable" DefaultPause="0" LineNumber="6" PauseBeforeExeucution="false" CommandEnabled="true" v_userVariableName="vScope" v_Input="offline_access%20files.readwrite.all" />
     </ScriptAction>
     <ScriptAction>
       <ScriptCommand xsi:type="VariableCommand" CommandID="c142efbb-e81d-45be-961d-59cdc458985f" CommandName="VariableCommand" IsCommented="false" SelectionName="Set Variable" DefaultPause="0" LineNumber="7" PauseBeforeExeucution="false" CommandEnabled="true" v_userVariableName="vMasterPath" v_Input="C:\Intelgic\master.xlsx" />
